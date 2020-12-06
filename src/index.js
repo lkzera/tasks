@@ -6,9 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <GerenciadorTarefas />
-  </React.StrictMode>,
+    <GerenciadorTarefas />,
   document.getElementById('root')
 );
 
